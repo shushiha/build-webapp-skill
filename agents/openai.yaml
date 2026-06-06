@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Web App"
+  short_description: "Build polished, tested web applications"
+  default_prompt: "Use $build-webapp to build a polished, responsive web application from this request."
